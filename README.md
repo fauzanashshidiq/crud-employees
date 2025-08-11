@@ -40,3 +40,7 @@ cd mern/client
 npm install
 npm run dev
 ```
+## ⚠️ Disclaimer
+- This project is intended for learning and demonstration purposes.
+- Do not use it in production environments without proper security, validation, and testing.
+- The author is not responsible for any misuse, data loss, or issues arising from the use of this code.
