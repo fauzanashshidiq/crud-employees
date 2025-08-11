@@ -1,12 +1,12 @@
 # CRUD Employees — MERN Stack
 
-Proyek ini adalah aplikasi **CRUD** (Create, Read, Update, Delete) sederhana untuk mengelola data karyawan menggunakan **MERN Stack** (**MongoDB**, **Express.js**, **React.js**, **Node.js**).
+This project is a simple **CRUD** (Create, Read, Update, Delete) application for managing employee data using the **MERN Stack** (**MongoDB**, **Express.js**, **React.js**, **Node.js**).
 
-## 🎯 Fitur
-- Tambah data karyawan
-- Lihat daftar karyawan
-- Edit data karyawan
-- Hapus data karyawan
+## 🎯 Features
+- Add employee data
+- View employee list
+- Edit employee data
+- Delete employee data
 
 ## 🛠️ Tech Stack
 - **Frontend:** React.js, TailwindCSS
@@ -14,19 +14,19 @@ Proyek ini adalah aplikasi **CRUD** (Create, Read, Update, Delete) sederhana unt
 - **Database:** MongoDB
 
 ## 📺 Tutorial
-Tutorial ini mengikuti panduan dari YouTube:  
+This project follows the tutorial from YouTube:  
 [📹 CRUD Employees — MERN Stack Tutorial](https://youtu.be/4nKWREmCvsE?si=_WJBO-JH4uYhS9os)
 
-## 🚀 Instalasi & Menjalankan
-### 1. Create the file mern/server/config.env with your Atlas URI and the server port:
+## 🚀 Installation & Setup
+### 1. Clone repository
+```bash
+git clone https://github.com/username/crud-employees-mern.git
+cd crud-employees
+```
+### 2. Create the `server/config.env` file with your MongoDB Atlas URI and server port:
 ```bash
 ATLAS_URI=mongodb+srv://<username>:<password>@sandbox.jadwj.mongodb.net/
 PORT=5050
-```
-### 2. Clone repository
-```bash
-git clone https://github.com/username/crud-employees-mern.git
-cd crud-employees-mern
 ```
 ### 3. Start Server 
 ```bash
