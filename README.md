@@ -20,7 +20,7 @@ This project follows the tutorial from YouTube:
 ## 🚀 Installation & Setup
 ### 1. Clone repository
 ```bash
-git clone https://github.com/username/crud-employees-mern.git
+git clone https://github.com/fauzanashshidiq/crud-employees.git
 cd crud-employees
 ```
 ### 2. Create the `server/config.env` file with your MongoDB Atlas URI and server port:
